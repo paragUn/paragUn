@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Roman
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java Core/Collections/Spring/Hibernate
+- 🌱 I’m currently learning Java Core/Collections/Spring/Hibernate/JavaFx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
